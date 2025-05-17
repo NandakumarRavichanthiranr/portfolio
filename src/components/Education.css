@@ -1,0 +1,22 @@
+.sect {
+  padding: 2rem;
+  background-color: #2f2f2f;
+  color: #90ee90;
+  min-height: 100vh;
+}
+
+.section-title {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  color: #00ff7f;
+}
+
+.card {
+  background-color: #444;
+  padding: 1rem;
+  border-radius: 8px;
+  color: #90ee90;
+  border: 1px solid #00ff7f;
+  margin: 10px;
+}
+

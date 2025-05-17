@@ -1,0 +1,32 @@
+.hh{
+    font-size: 25px;
+    margin-left: 50px;
+    border: none;
+    background: none;
+    margin-top: none;
+    color: #00ff7f;
+}
+.hh:hover{
+    color:black;
+    cursor: pointer;
+}
+.kk{
+    margin-left: 300px;
+    font-size: 25px;
+    border: none;
+    background: none;
+    margin-top: 20px;
+    color: #00ff7f;
+}
+.kk:hover{
+    color:black;
+    cursor: pointer;
+}
+nav{
+    height: 70px;
+    color: aliceblue;
+}
+.header{
+    font-size: 30px;
+    margin-top: none;
+}

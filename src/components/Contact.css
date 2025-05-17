@@ -1,0 +1,34 @@
+.contact-container {
+    color: #90ee90;
+    padding: 2rem;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-title {
+    color: #00ff7f;
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+}
+
+.contact-info {
+    background-color: #444;
+    border: 1px solid #00ff7f;
+    border-radius: 8px;
+    padding: 1.5rem 2rem;
+    font-size: 1.2rem;
+    font-family: Geneva, sans-serif;
+    line-height: 2rem;
+    width: 100%;
+    max-width: 600px;
+}
+
+.contact-info a {
+    color: #00ff7f;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}

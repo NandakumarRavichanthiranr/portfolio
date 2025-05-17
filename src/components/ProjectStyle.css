@@ -1,0 +1,39 @@
+.project-page {
+  padding: 2rem;
+  color: #2ffb73;
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.project-page h1 {
+  font-size: 2.2rem;
+  margin-bottom: 1.2rem;
+}
+
+.project-page p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.project-link {
+  background-color: #00ff88;
+  color: #000;
+  padding: 0.6rem 1.2rem;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: 0.3s ease;
+}
+
+.project-link:hover {
+  background-color: #00cc70;
+}
+
+.project-image {
+  max-width: 500px;
+  height: auto;
+  margin: 20px 0;
+  margin-left: 10px;
+  border-radius: 0px;
+}

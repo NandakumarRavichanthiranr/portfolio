@@ -1,0 +1,48 @@
+.pp {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start; /* Align top */
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 20px;
+}
+
+.pr {
+    background-color: #444;
+    padding: 1rem;
+    border-radius: 8px;
+    color: #90ee90;
+    border: 1px solid #00ff7f;
+    margin: 10px;
+    flex: 1 1 60%;
+    min-width: 300px;
+}
+
+.nm {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #00ff7f;
+    margin-left: 35px;
+}
+
+body {
+    background-color: #2f2f2f;
+}
+
+.m {
+    font-size: 25px;
+    font-family: Geneva;
+    line-height: 30px;
+    margin-top: 10px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.ii {
+    width: 290px;
+    height: 300px;
+    border-radius: 10px;
+    flex-shrink: 0;
+    margin-top: 10px;
+    margin-right: 20px;
+}

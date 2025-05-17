@@ -1,0 +1,47 @@
+.participation-container {
+    color: #90ee90;
+    padding: 2rem;
+    min-height: 100vh;
+}
+
+.participation-title {
+    font-size: 2.5rem;
+    color: #00ff7f;
+    margin-bottom: 2rem;
+}
+.but1{
+    height: 40px;
+    width: 120px;
+    font-size: 15px;
+    border-radius: 10px;
+    border-color: #00ff7f;
+    background-color: #00ff7f;
+    border-style: none;
+    color: rgb(57, 58, 59);
+    font-weight: 700;
+}
+.but1:hover{
+    background-color: darkgrey ;
+    color: #00ff7f;
+    cursor: pointer;
+}
+.event-card {
+    background-color: #444;
+    border: 1px solid #00ff7f;
+    border-radius: 8px;
+    padding: 1.5rem;
+    max-width: 900px;
+    font-family: Geneva, sans-serif;
+    margin-bottom: 15px;
+}
+
+.event-name {
+    font-size: 1.5rem;
+    color: #00ff7f;
+    margin-bottom: 0.8rem;
+}
+
+.event-description {
+    font-size: 1.1rem;
+    line-height: 1.8rem;
+}
